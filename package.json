@@ -2,7 +2,7 @@
   "name":        "hosted-hubot",
   "version":     "2.2.0",
   "engines": {
-	"node": "0.7.x"
+	"node": "0.7.0"
   }
   "author":      "GitHub Inc.",
   "keywords":    "github hubot campfire bot",
